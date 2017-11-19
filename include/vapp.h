@@ -3,6 +3,9 @@
 
 #include "vgl.h"
 
+#include <sys/time.h>
+
+
 class VermilionApplication
 {
 protected:
